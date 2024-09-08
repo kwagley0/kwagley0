@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year computer science student at the University of Maryland - Baltimore County, passionate about exploring the vast areas of coding and building robust applications.<br><br>Check out my coding portfolio! https://krishw-portfolio.vercel.app/<br><br>
+I am a third-year computer science student at the University of Maryland - Baltimore County, passionate about exploring the vast areas of coding and building robust applications.<br><br>Check out my [coding portfolio!](https://krishw-portfolio.vercel.app/)<br><br>
 
 
 ## 🌐 Connect With Me:
