@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am a third-year computer science student at the University of Maryland - Baltimore County, passionate about exploring the vast areas of coding and building robust applications.<br><br>Check out my coding portfolio! https://krishw-portfolio.vercel.app/<br><br>Connect with me on Linkedin: https://www.linkedin.com/in/krish-wagley/
+I am a third-year computer science student at the University of Maryland - Baltimore County, passionate about exploring the vast areas of coding and building robust applications.<br><br>Check out my coding portfolio! https://krishw-portfolio.vercel.app/<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krish-wagley/) 
 
 # 💻 Tech Stack:
